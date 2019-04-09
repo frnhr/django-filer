@@ -35,3 +35,4 @@ node_modules/
 .python-version
 data
 local.sqlite
+.sass-cache/
