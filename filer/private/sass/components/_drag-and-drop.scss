@@ -386,6 +386,9 @@ form .form-row {
             }
         }
     }
+    & ~ .related-widget-wrapper-link {
+        display: none;
+    }
 }
 
 .filer-dropzone-info-message {
